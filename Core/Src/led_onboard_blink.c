@@ -1,3 +1,4 @@
+#include "stm32g0b1xx.h"
 #include "main.h"
 #include "led_onboard_blink.h"
 
