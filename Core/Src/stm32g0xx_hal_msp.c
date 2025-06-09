@@ -19,6 +19,7 @@
 /* USER CODE END Header */
 
 /* Includes ------------------------------------------------------------------*/
+#include "stm32g0b1xx.h"
 #include "main.h"
 /* USER CODE BEGIN Includes */
 
